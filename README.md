@@ -4,8 +4,8 @@ A Computer Science student @ SFSU building full-stack, production-ready web apps
 - 🔨 I'm currently working on **CashCanvas** — a personal finance web app with Gemini AI transaction categorization, OTP email verification, Google reCAPTCHA, and a MongoDB Atlas backend. Deployed on Vercel.
 - 🤝 I'm looking to collaborate on **full-stack web apps, developer tools, or early-stage products**
 - 💬 Ask me about: **React, Next.js, Spring Boot, MongoDB, Java, Node.js, REST APIs, or deploying on Vercel**
-- 📫 How to reach me: **your-email@mail.sfsu.edu** or [LinkedIn](https://linkedin.com/in/your-linkedin)
-- 📄 Know about my experiences: [Resume](#)
+- 📫 How to reach me: **paramcharnanand17@gmail.com** or [LinkedIn](https://www.linkedin.com/in/param-charnanand-a5829b271/)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1F8MkkjqPCrOHQQD3hgz-XB49BX-PSgc_/view?usp=sharing)
 
 **Tech Stack:**
 
